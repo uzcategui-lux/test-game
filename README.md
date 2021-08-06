@@ -17,7 +17,10 @@ CRUD Test Data Game, proyecto desarrollado Framework Laravel 8.x & MySQL
   cd path/to/porject/
   composer install
 ```
-  
+  Aplicar migracion
+```  
+  php artisan migrate:refresh --seed  
+```  
 
 
   
